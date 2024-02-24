@@ -22,8 +22,6 @@
   <img width="12" />
   <a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYR5xABgqv6nypBdCz8Oj9hanKePdexSONiA5NTE177v24zDh1M9eAzGqqtiD4X-oz4hDbPNK7OR8Kxv0IR5k_VvTnXNPA=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYR5xABgqv6nypBdCz8Oj9hanKePdexSONiA5NTE177v24zDh1M9eAzGqqtiD4X-oz4hDbPNK7OR8Kxv0IR5k_VvTnXNPA=s1600" height="30"/> 
  <img width="12" />
-  <img src="https://drive.google.com/file/d/1JInQDqYOvEOrbxPupSYbVst34Dk7eYY1/view?usp=sharing" height="30" alt="appium logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="30" alt="pytest logo"  />
