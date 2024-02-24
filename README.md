@@ -20,6 +20,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
+  <img src="https://drive.google.com/file/d/1cPyejxnyGELZOKWhGlhE57mNhhM_4a0S/view?usp=drive_link" height="30" alt="appium logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="30" alt="pytest logo"  />
