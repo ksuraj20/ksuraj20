@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://images.credly.com/images/af6eb254-169b-452a-a63c-5a1f986ed4cc/appium.png" height="30"/> 
+  <img src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text.png" height="30" alt="appium logo" /> 
  <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo"  />
   <img width="12" />
