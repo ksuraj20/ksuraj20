@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fthe-linux-foundation%2Fbadge%2Fopenjs-foundation-appium&psig=AOvVaw38VOVwJCGu1LUhQUke78UB&ust=1718078467053000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCz3piT0IYDFQAAAAAdAAAAABAE" height="30"/> 
+  <img src="https://images.credly.com/images/af6eb254-169b-452a-a63c-5a1f986ed4cc/appium.png" height="30"/> 
  <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo"  />
   <img width="12" />
