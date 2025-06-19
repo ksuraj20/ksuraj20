@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  ![image](https://github.com/user-attachments/assets/4a0ae9b8-286b-45d6-a898-4f734c36e4c0)
+  <img src="https://github.com/user-attachments/assets/4a0ae9b8-286b-45d6-a898-4f734c36e4c0" height="30" alt="playwright logo"  />
  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
