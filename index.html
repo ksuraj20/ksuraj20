@@ -98,6 +98,9 @@
             padding: 20px 0;
             backdrop-filter: blur(10px);
             border-bottom: 1px solid rgba(148, 163, 184, 0.1);
+            position: sticky; /* Keeps navbar visible */
+            top: 0;
+            z-index: 100;
         }
 
         .logo {
@@ -145,6 +148,7 @@
         .hero {
             margin-bottom: 120px;
             animation: slideUp 0.8s ease-out;
+            padding-top: 40px; /* Added padding for scroll offset */
         }
 
         @keyframes slideUp {
@@ -218,6 +222,7 @@
 
         .section {
             margin-bottom: 100px;
+            scroll-margin-top: 100px; /* Ensures header doesn't cover title when scrolling */
         }
 
         .section-title {
@@ -347,6 +352,7 @@
             border: 1px solid rgba(148, 163, 184, 0.1);
             border-radius: 12px;
             margin-top: 120px;
+            scroll-margin-top: 100px;
         }
 
         .connect-section h2 {
@@ -458,7 +464,6 @@
     <div class="blob blob2"></div>
 
     <div class="container">
-        <!-- Navigation -->
         <nav class="navbar">
             <div class="logo">SK</div>
             <ul class="nav-links">
@@ -469,20 +474,18 @@
             </ul>
         </nav>
 
-        <!-- Hero Section -->
-        <section class="hero">
+        <section class="hero" id="about">
             <h1>Suraj Kathare</h1>
-            <p class="hero-text">QA Automation Engineer crafting robust test frameworks and ensuring software excellence. 6+ years of building reliability through automation.</p>
+            <p class="hero-text">QA Automation Engineer crafting robust test frameworks and ensuring software excellence. 4+ years of building reliability through automation.</p>
             <div class="cta-buttons">
                 <a href="https://www.linkedin.com/in/suraj-kathare/" target="_blank" class="btn btn-primary">View My LinkedIn</a>
                 <a href="mailto:suraj.kathare98@gmail.com" class="btn btn-secondary">Get In Touch</a>
             </div>
         </section>
 
-        <!-- Stats Section -->
         <div class="stats">
             <div class="stat">
-                <div class="stat-number">6+</div>
+                <div class="stat-number">4+</div>
                 <div class="stat-label">Years Experience</div>
             </div>
             <div class="stat">
@@ -495,8 +498,7 @@
             </div>
         </div>
 
-        <!-- Skills Section -->
-        <section class="section">
+        <section class="section" id="skills">
             <h2 class="section-title">Technical Stack</h2>
             <div class="skills-showcase">
                 <div class="skill-card">
@@ -544,14 +546,21 @@
                     <p>GitHub</p>
                 </div>
                 <div class="skill-card">
+                    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub-Actions">
+                    <p>GitHub-Actions</p>
+                </div>
+                <div class="skill-card">
+                    <img src="https://skillicons.dev/icons?i=githubactions" alt="Jenkins">
+                    <p>Jenkins</p>
+                </div>
+                <div class="skill-card">
                     <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
                     <p>Docker</p>
                 </div>
             </div>
         </section>
 
-        <!-- Expertise Section -->
-        <section class="section">
+        <section class="section" id="expertise">
             <h2 class="section-title">Core Expertise</h2>
             <div class="expertise-grid">
                 <div class="expertise-item">
@@ -581,7 +590,6 @@
             </div>
         </section>
 
-        <!-- Connect Section -->
         <section class="connect-section" id="connect">
             <h2>Let's Work Together</h2>
             <p>Open to new opportunities and collaborations in QA automation and test engineering.</p>
