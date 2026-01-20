@@ -195,6 +195,10 @@
             display: inline-block;
             position: relative;
             overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
         }
 
         .btn-primary {
@@ -471,7 +475,7 @@
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#expertise">Expertise</a></li>
                 <li><a href="#connect">Connect</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLadn64gvnC0RtqUJfEo65F7CkyXH3YE/view?usp=sharing">📄 Resume</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLadn64gvnC0RtqUJfEo65F7CkyXH3YE/view?usp=sharing" target="_blank" style="color: #0ea5e9; font-weight: bold;">📄 Resume</a></li>
             </ul>
         </nav>
 
@@ -479,6 +483,7 @@
             <h1>Suraj Kathare</h1>
             <p class="hero-text">QA Automation Engineer crafting robust test frameworks and ensuring software excellence. 6+ years of building reliability through automation.</p>
             <div class="cta-buttons">
+                <a href="https://drive.google.com/file/d/1mLadn64gvnC0RtqUJfEo65F7CkyXH3YE/view?usp=sharing" target="_blank" class="btn btn-primary">📄 Download Resume</a>
                 <a href="https://www.linkedin.com/in/suraj-kathare/" target="_blank" class="btn btn-primary">View My LinkedIn</a>
                 <a href="mailto:suraj.kathare98@gmail.com" class="btn btn-secondary">Get In Touch</a>
             </div>
@@ -496,6 +501,11 @@
             <div class="stat">
                 <div class="stat-number">100%</div>
                 <div class="stat-label">Dedication</div>
+            </div>
+            
+            <div class="stat" style="display: none;" id="busuanzi_container_site_uv">
+                <div class="stat-number" id="busuanzi_value_site_uv">0</div>
+                <div class="stat-label">Unique Visitors</div>
             </div>
         </div>
 
@@ -630,5 +640,7 @@
             });
         });
     </script>
+    
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 </body>
 </html>
